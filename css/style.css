@@ -1,0 +1,13 @@
+@import 
+:root {
+    --bs-font-sans-serif: 'Zilla Slab', serif;
+    --bs-font-monospace: 'Zilla Slab', serif;
+}
+
+#breaking-news-carousel {
+    height: 418.5px;
+}
+
+.today-new img {
+    height: 600px;
+}
